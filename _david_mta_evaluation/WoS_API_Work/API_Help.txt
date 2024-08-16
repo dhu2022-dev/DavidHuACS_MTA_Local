@@ -1,0 +1,45 @@
+Summary of helpful documentation and search query stuff I found for the reader to make sense of my API extraction code.
+
+Booleans : AND, OR, NOT
+
+Field Tags :
+TS=Topic
+TI=Title
+AB=Abstract
+AU=[Author]
+AI=Author Identifiers
+AK=Author Keywords
+GP=[Group Author]
+ED=Editor
+KP=Keyword Plus ®
+SO=[Publication Titles]
+DO=DOI
+PY=Year Published
+CF=Conference
+AD=Address
+OG=[Affiliation]
+OO=Organization
+SG=Suborganization
+SA=Street Address
+CI=City
+PS=Province/State
+CU=Country/Region
+ZP=Zip/Postal Code
+FO=Funding Agency
+FG=Grant Number
+FD=Funding Details
+FT=Funding Text
+SU=Research Area
+WC=Web of Science Categories 
+IS= ISSN/ISBN
+UT=Accession Number
+PMID=PubMed ID
+DOP=Publication Date
+LD=Index Date
+PUBL=Publisher
+ALL=All Fields
+FPY=Final publication year
+EAY=Early Access Year
+SDG=Sustainable Development Goals
+
+Other search rules can be found here: https://webofscience.help.clarivate.com/en-us/Content/structure-search.html

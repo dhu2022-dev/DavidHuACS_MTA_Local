@@ -1,0 +1,1873 @@
+{ "Records": { "records": { "REC": [ {
+  "UID": "WOS:001050171100001",
+  "static_data": {
+    "summary": {
+      "pub_info": {
+        "coverdate": "DEC 20 2020",
+        "journal_oas_gold": "N",
+        "pubyear": 2020,
+        "issue": 6,
+        "pubmonth": "DEC 20",
+        "pubtype": "Journal",
+        "early_access_month": "08",
+        "vol": 31,
+        "early_access_date": "AUG 2023",
+        "sortdate": "2023-08-03",
+        "has_abstract": "Y",
+        "page": {
+          "end": 1015,
+          "begin": 1003,
+          "page_count": 13,
+          "content": "1003-1015"
+        },
+        "early_access_year": 2023
+      },
+      "names": {
+        "count": 5,
+        "name": [
+          {
+            "seq_no": 1,
+            "role": "author",
+            "claim_status": false,
+            "last_name": "Gray",
+            "display_name": "Gray, Samantha M.",
+            "daisng_id": 8516011,
+            "full_name": "Gray, Samantha M.",
+            "addr_no": "1 2",
+            "data-item-ids": {
+              "data-item-id": {
+                "type": "person",
+                "content": "CTC-5605-2022",
+                "id-type": "PreferredRID"
+              }
+            },
+            "wos_standard": "Gray, SM",
+            "r_id": "CTC-5605-2022",
+            "first_name": "Samantha M.",
+            "preferred_name": {
+              "full_name": "Gray, Samantha M.",
+              "last_name": "Gray",
+              "first_name": "Samantha M."
+            }
+          },
+          {
+            "seq_no": 2,
+            "role": "author",
+            "claim_status": false,
+            "last_name": "Nettlefold",
+            "display_name": "Nettlefold, Lindsay",
+            "daisng_id": 26569534,
+            "full_name": "Nettlefold, Lindsay",
+            "addr_no": 2,
+            "data-item-ids": {
+              "data-item-id": {
+                "type": "person",
+                "content": "FQF-9141-2022",
+                "id-type": "PreferredRID"
+              }
+            },
+            "wos_standard": "Nettlefold, L",
+            "r_id": "FQF-9141-2022",
+            "first_name": "Lindsay",
+            "preferred_name": {
+              "full_name": "Nettlefold, Lindsay",
+              "last_name": "Nettlefold",
+              "first_name": "Lindsay"
+            }
+          },
+          {
+            "seq_no": 3,
+            "role": "author",
+            "claim_status": false,
+            "last_name": "Mackey",
+            "display_name": "Mackey, Dawn",
+            "daisng_id": 42785232,
+            "full_name": "Mackey, Dawn",
+            "addr_no": 1,
+            "data-item-ids": {
+              "data-item-id": {
+                "type": "person",
+                "content": "IEZ-5250-2023",
+                "id-type": "PreferredRID"
+              }
+            },
+            "wos_standard": "Mackey, D",
+            "r_id": "IEZ-5250-2023",
+            "first_name": "Dawn",
+            "preferred_name": {
+              "full_name": "Mackey, Dawn",
+              "last_name": "Mackey",
+              "first_name": "Dawn"
+            }
+          },
+          {
+            "seq_no": 4,
+            "role": "author",
+            "claim_status": false,
+            "last_name": "Gould",
+            "display_name": "Gould, Joanie Sims",
+            "daisng_id": 29304177,
+            "orcid_id": "0000-0003-1260-5405",
+            "full_name": "Gould, Joanie Sims",
+            "addr_no": "2 3",
+            "data-item-ids": {
+              "data-item-id": {
+                "type": "person",
+                "content": "GBN-3792-2022",
+                "id-type": "PreferredRID"
+              }
+            },
+            "wos_standard": "Gould, JS",
+            "r_id": "GBN-3792-2022",
+            "first_name": "Joanie Sims",
+            "preferred_name": {
+              "full_name": "Sims-Gould, Joanie",
+              "last_name": "Sims-Gould",
+              "first_name": "Joanie"
+            }
+          },
+          {
+            "seq_no": 5,
+            "role": "author",
+            "claim_status": false,
+            "reprint": "Y",
+            "last_name": "McKay",
+            "display_name": "McKay, Heather A.",
+            "daisng_id": 24830176,
+            "full_name": "McKay, Heather A.",
+            "addr_no": "2 3",
+            "data-item-ids": {
+              "data-item-id": {
+                "type": "person",
+                "content": "FJA-9781-2022",
+                "id-type": "PreferredRID"
+              }
+            },
+            "wos_standard": "McKay, HA",
+            "r_id": "FJA-9781-2022",
+            "first_name": "Heather A.",
+            "preferred_name": {
+              "full_name": "Mckay, Heather A.",
+              "last_name": "Mckay",
+              "first_name": "Heather A."
+            }
+          }
+        ]
+      },
+      "doctypes": {
+        "doctype": "Article",
+        "count": 1
+      },
+      "publishers": {
+        "publisher": {
+          "names": {
+            "count": 1,
+            "name": {
+              "seq_no": 1,
+              "role": "publisher",
+              "full_name": "HUMAN KINETICS PUBL INC",
+              "unified_name": "Human Kinetics Publ Inc",
+              "addr_no": 1,
+              "display_name": "HUMAN KINETICS PUBL INC"
+            }
+          },
+          "address_spec": {
+            "city": "CHAMPAIGN",
+            "addr_no": 1,
+            "full_address": "1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820-2200 USA"
+          }
+        }
+      },
+      "EWUID": {
+        "WUID": {
+          "coll_id": "WOS"
+        },
+        "edition": [
+          {
+            "value": "WOS.SCI"
+          },
+          {
+            "value": "WOS.SSCI"
+          }
+        ]
+      },
+      "titles": {
+        "count": 6,
+        "title": [
+          {
+            "type": "source",
+            "content": "JOURNAL OF AGING AND PHYSICAL ACTIVITY"
+          },
+          {
+            "type": "source_abbrev",
+            "content": "J AGING PHYS ACTIV"
+          },
+          {
+            "type": "abbrev_iso",
+            "content": "J. Aging Phys. Act."
+          },
+          {
+            "type": "abbrev_11",
+            "content": "J AGING P A"
+          },
+          {
+            "type": "abbrev_29",
+            "content": "J AGING PHYS ACTIV"
+          },
+          {
+            "type": "item",
+            "content": "Feasibility of a Virtual Health-Promoting Intervention (Choose to Move) for Older Adults: A Rapid Adaptation in Response to COVID-19"
+          }
+        ]
+      }
+    },
+    "item": {
+      "xsi:type": "itemType_wos",
+      "coll_id": "WOS",
+      "ids": {
+        "avail": "Y",
+        "content": "Z7EA0"
+      },
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "bib_pagecount": {
+        "type": "Journal",
+        "content": 13
+      },
+      "keywords_plus": {
+        "count": 10,
+        "keyword": [
+          "PHYSICAL-ACTIVITY",
+          "MOBILITY LIMITATION",
+          "GAIT SPEED",
+          "LONELINESS",
+          "SCALE",
+          "PERFORMANCE",
+          "MORTALITY",
+          "ASSOCIATION",
+          "CONSISTENCY",
+          "DISABILITY"
+        ]
+      },
+      "bib_id": "31 (6): 1003-1015 DEC 20 2020"
+    },
+    "fullrecord_metadata": {
+      "addresses": {
+        "count": 3,
+        "address_name": [
+          {
+            "names": {
+              "count": 2,
+              "name": [
+                {
+                  "seq_no": 1,
+                  "role": "author",
+                  "full_name": "Gray, Samantha M.",
+                  "claim_status": false,
+                  "addr_no": 1,
+                  "last_name": "Gray",
+                  "data-item-ids": {
+                    "data-item-id": {
+                      "type": "person",
+                      "content": "CTC-5605-2022",
+                      "id-type": "PreferredRID"
+                    }
+                  },
+                  "display_name": "Gray, Samantha M.",
+                  "wos_standard": "Gray, SM",
+                  "daisng_id": 8516011,
+                  "first_name": "Samantha M.",
+                  "preferred_name": {
+                    "full_name": "Gray, Samantha M.",
+                    "last_name": "Gray",
+                    "first_name": "Samantha M."
+                  }
+                },
+                {
+                  "seq_no": 3,
+                  "role": "author",
+                  "full_name": "Mackey, Dawn",
+                  "claim_status": false,
+                  "addr_no": 1,
+                  "last_name": "Mackey",
+                  "data-item-ids": {
+                    "data-item-id": {
+                      "type": "person",
+                      "content": "IEZ-5250-2023",
+                      "id-type": "PreferredRID"
+                    }
+                  },
+                  "display_name": "Mackey, Dawn",
+                  "wos_standard": "Mackey, D",
+                  "daisng_id": 42785232,
+                  "first_name": "Dawn",
+                  "preferred_name": {
+                    "full_name": "Mackey, Dawn",
+                    "last_name": "Mackey",
+                    "first_name": "Dawn"
+                  }
+                }
+              ]
+            },
+            "address_spec": {
+              "country": "Canada",
+              "city": "Burnaby",
+              "addr_no": 1,
+              "organizations": {
+                "organization": [
+                  {
+                    "pref": null,
+                    "content": "Simon Fraser Univ"
+                  },
+                  {
+                    "pref": "Y",
+                    "content": "Simon Fraser University"
+                  },
+                  {
+                    "pref": "N",
+                    "content": "Simon Fraser University Faculty of Science"
+                  },
+                  {
+                    "pref": "N",
+                    "content": "Simon Fraser University Department of Biomedical Physiology and Kinesiology"
+                  }
+                ],
+                "count": 4
+              },
+              "full_address": "Simon Fraser Univ, Dept Biomed Physiol & Kinesiol, Aging & Populat Hlth Lab, Burnaby, BC, Canada",
+              "state": "BC",
+              "suborganizations": {
+                "count": 2,
+                "suborganization": [
+                  "Dept Biomed Physiol & Kinesiol",
+                  "Aging & Populat Hlth Lab"
+                ]
+              }
+            }
+          },
+          {
+            "names": {
+              "count": 4,
+              "name": [
+                {
+                  "seq_no": 1,
+                  "role": "author",
+                  "full_name": "Gray, Samantha M.",
+                  "claim_status": false,
+                  "addr_no": 2,
+                  "last_name": "Gray",
+                  "data-item-ids": {
+                    "data-item-id": {
+                      "type": "person",
+                      "content": "CTC-5605-2022",
+                      "id-type": "PreferredRID"
+                    }
+                  },
+                  "display_name": "Gray, Samantha M.",
+                  "wos_standard": "Gray, SM",
+                  "daisng_id": 8516011,
+                  "first_name": "Samantha M.",
+                  "preferred_name": {
+                    "full_name": "Gray, Samantha M.",
+                    "last_name": "Gray",
+                    "first_name": "Samantha M."
+                  }
+                },
+                {
+                  "seq_no": 2,
+                  "role": "author",
+                  "full_name": "Nettlefold, Lindsay",
+                  "claim_status": false,
+                  "addr_no": 2,
+                  "last_name": "Nettlefold",
+                  "data-item-ids": {
+                    "data-item-id": {
+                      "type": "person",
+                      "content": "FQF-9141-2022",
+                      "id-type": "PreferredRID"
+                    }
+                  },
+                  "display_name": "Nettlefold, Lindsay",
+                  "wos_standard": "Nettlefold, L",
+                  "daisng_id": 26569534,
+                  "first_name": "Lindsay",
+                  "preferred_name": {
+                    "full_name": "Nettlefold, Lindsay",
+                    "last_name": "Nettlefold",
+                    "first_name": "Lindsay"
+                  }
+                },
+                {
+                  "seq_no": 4,
+                  "role": "author",
+                  "claim_status": false,
+                  "last_name": "Gould",
+                  "display_name": "Gould, Joanie Sims",
+                  "daisng_id": 29304177,
+                  "orcid_id": "0000-0003-1260-5405",
+                  "full_name": "Gould, Joanie Sims",
+                  "addr_no": 2,
+                  "data-item-ids": {
+                    "data-item-id": {
+                      "type": "person",
+                      "content": "GBN-3792-2022",
+                      "id-type": "PreferredRID"
+                    }
+                  },
+                  "wos_standard": "Gould, JS",
+                  "first_name": "Joanie Sims",
+                  "preferred_name": {
+                    "full_name": "Sims-Gould, Joanie",
+                    "last_name": "Sims-Gould",
+                    "first_name": "Joanie"
+                  }
+                },
+                {
+                  "seq_no": 5,
+                  "role": "author",
+                  "claim_status": false,
+                  "reprint": "Y",
+                  "last_name": "McKay",
+                  "display_name": "McKay, Heather A.",
+                  "daisng_id": 24830176,
+                  "full_name": "McKay, Heather A.",
+                  "addr_no": 2,
+                  "data-item-ids": {
+                    "data-item-id": {
+                      "type": "person",
+                      "content": "FJA-9781-2022",
+                      "id-type": "PreferredRID"
+                    }
+                  },
+                  "wos_standard": "McKay, HA",
+                  "first_name": "Heather A.",
+                  "preferred_name": {
+                    "full_name": "Mckay, Heather A.",
+                    "last_name": "Mckay",
+                    "first_name": "Heather A."
+                  }
+                }
+              ]
+            },
+            "address_spec": {
+              "country": "Canada",
+              "city": "Vancouver",
+              "addr_no": 2,
+              "organizations": {
+                "organization": [
+                  {
+                    "pref": null,
+                    "content": "Univ British Columbia"
+                  },
+                  {
+                    "pref": "Y",
+                    "content": "University of British Columbia"
+                  }
+                ],
+                "count": 2
+              },
+              "full_address": "Univ British Columbia, Act Aging Res Team, Vancouver, BC, Canada",
+              "state": "BC",
+              "suborganizations": {
+                "count": 1,
+                "suborganization": "Act Aging Res Team"
+              }
+            }
+          },
+          {
+            "names": {
+              "count": 2,
+              "name": [
+                {
+                  "seq_no": 4,
+                  "role": "author",
+                  "claim_status": false,
+                  "last_name": "Gould",
+                  "display_name": "Gould, Joanie Sims",
+                  "daisng_id": 29304177,
+                  "orcid_id": "0000-0003-1260-5405",
+                  "full_name": "Gould, Joanie Sims",
+                  "addr_no": 3,
+                  "data-item-ids": {
+                    "data-item-id": {
+                      "type": "person",
+                      "content": "GBN-3792-2022",
+                      "id-type": "PreferredRID"
+                    }
+                  },
+                  "wos_standard": "Gould, JS",
+                  "first_name": "Joanie Sims",
+                  "preferred_name": {
+                    "full_name": "Sims-Gould, Joanie",
+                    "last_name": "Sims-Gould",
+                    "first_name": "Joanie"
+                  }
+                },
+                {
+                  "seq_no": 5,
+                  "role": "author",
+                  "claim_status": false,
+                  "reprint": "Y",
+                  "last_name": "McKay",
+                  "display_name": "McKay, Heather A.",
+                  "daisng_id": 24830176,
+                  "full_name": "McKay, Heather A.",
+                  "addr_no": 3,
+                  "data-item-ids": {
+                    "data-item-id": {
+                      "type": "person",
+                      "content": "FJA-9781-2022",
+                      "id-type": "PreferredRID"
+                    }
+                  },
+                  "wos_standard": "McKay, HA",
+                  "first_name": "Heather A.",
+                  "preferred_name": {
+                    "full_name": "Mckay, Heather A.",
+                    "last_name": "Mckay",
+                    "first_name": "Heather A."
+                  }
+                }
+              ]
+            },
+            "address_spec": {
+              "country": "Canada",
+              "city": "Vancouver",
+              "addr_no": 3,
+              "organizations": {
+                "organization": [
+                  {
+                    "pref": null,
+                    "content": "Univ British Columbia"
+                  },
+                  {
+                    "pref": "Y",
+                    "content": "University of British Columbia"
+                  },
+                  {
+                    "pref": "N",
+                    "content": "The University of British Columbia Faculty of Medicine"
+                  },
+                  {
+                    "pref": "N",
+                    "content": "The University of British Columbia Department of Family Practice"
+                  }
+                ],
+                "count": 4
+              },
+              "full_address": "Univ British Columbia, Dept Family Practice, Vancouver, BC, Canada",
+              "state": "BC",
+              "suborganizations": {
+                "count": 1,
+                "suborganization": "Dept Family Practice"
+              }
+            }
+          }
+        ]
+      },
+      "category_info": {
+        "subheadings": {
+          "count": 1,
+          "subheading": "Life Sciences & Biomedicine"
+        },
+        "subjects": {
+          "subject": [
+            {
+              "ascatype": "traditional",
+              "code": "LI",
+              "content": "Geriatrics & Gerontology"
+            },
+            {
+              "ascatype": "traditional",
+              "code": "LJ",
+              "content": "Gerontology"
+            },
+            {
+              "ascatype": "traditional",
+              "code": "XW",
+              "content": "Sport Sciences"
+            },
+            {
+              "ascatype": "extended",
+              "content": "Geriatrics & Gerontology"
+            },
+            {
+              "ascatype": "extended",
+              "content": "Sport Sciences"
+            }
+          ],
+          "count": 5
+        },
+        "headings": {
+          "heading": "Science & Technology",
+          "count": 1
+        }
+      },
+      "normalized_languages": {
+        "count": 1,
+        "language": {
+          "type": "primary",
+          "content": "English"
+        }
+      },
+      "languages": {
+        "count": 1,
+        "language": {
+          "type": "primary",
+          "content": "English"
+        }
+      },
+      "keywords": {
+        "count": 4,
+        "keyword": [
+          "mobility",
+          "social connectedness",
+          "seniors",
+          "implementation science"
+        ]
+      },
+      "refs": {
+        "count": 93
+      },
+      "reprint_addresses": {
+        "count": 2,
+        "address_name": [
+          {
+            "names": {
+              "count": 1,
+              "name": {
+                "seq_no": 1,
+                "role": "author",
+                "full_name": "McKay, Heather A.",
+                "reprint": "Y",
+                "addr_no": 1,
+                "last_name": "McKay",
+                "display_name": "McKay, Heather A.",
+                "wos_standard": "McKay, HA",
+                "first_name": "Heather A."
+              }
+            },
+            "address_spec": {
+              "country": "Canada",
+              "city": "Vancouver",
+              "addr_no": 1,
+              "organizations": {
+                "organization": [
+                  {
+                    "pref": null,
+                    "content": "Univ British Columbia"
+                  },
+                  {
+                    "pref": "Y",
+                    "content": "University of British Columbia"
+                  }
+                ],
+                "count": 2
+              },
+              "full_address": "Univ British Columbia, Act Aging Res Team, Vancouver, BC, Canada",
+              "state": "BC",
+              "suborganizations": {
+                "count": 1,
+                "suborganization": "Act Aging Res Team"
+              }
+            }
+          },
+          {
+            "names": {
+              "count": 1,
+              "name": {
+                "seq_no": 1,
+                "role": "author",
+                "full_name": "McKay, Heather A.",
+                "reprint": "Y",
+                "addr_no": 2,
+                "last_name": "McKay",
+                "display_name": "McKay, Heather A.",
+                "wos_standard": "McKay, HA",
+                "first_name": "Heather A."
+              }
+            },
+            "address_spec": {
+              "country": "Canada",
+              "city": "Vancouver",
+              "addr_no": 2,
+              "organizations": {
+                "organization": [
+                  {
+                    "pref": null,
+                    "content": "Univ British Columbia"
+                  },
+                  {
+                    "pref": "Y",
+                    "content": "University of British Columbia"
+                  },
+                  {
+                    "pref": "N",
+                    "content": "The University of British Columbia Faculty of Medicine"
+                  },
+                  {
+                    "pref": "N",
+                    "content": "The University of British Columbia Department of Family Practice"
+                  }
+                ],
+                "count": 4
+              },
+              "full_address": "Univ British Columbia, Dept Family Practice, Vancouver, BC, Canada",
+              "state": "BC",
+              "suborganizations": {
+                "count": 1,
+                "suborganization": "Dept Family Practice"
+              }
+            }
+          }
+        ]
+      },
+      "abstracts": {
+        "count": 1,
+        "abstract": {
+          "abstract_text": {
+            "p": "To support older adults during the first wave of COVID-19, we rapidly adapted our effective health-promoting intervention (Choose to Move [CTM]) for virtual delivery in British Columbia, Canada. The intervention was delivered (April-October 2020) to 33 groups of older adults (\"programs\") who were a convenience sample (had previously completed CTM in person; n = 153; 86% female; 73 [6] years). We compared implementation outcomes (recruitment, dose received, retention, and completion of virtual data collection) to predetermined feasibility targets. We assessed mobility, physical activity, and social health outcomes pre- and postintervention (3 months) with validated surveys. We met most (dose received, retention, and virtual data collection), but not all (recruitment), feasibility targets. Approximately two thirds of older adults maintained or improved mobility, physical activity, and social health outcomes at 3 months. It was feasible to implement and evaluate CTM virtually. In future, virtual CTM could help us reach homebound older adults and/or serve as support during public health emergencies.",
+            "count": 1
+          }
+        }
+      },
+      "fund_ack": {
+        "grants": {
+          "count": 4,
+          "grant": [
+            {
+              "grant_agency_names": {
+                "pref": "N",
+                "content": "BC Ministry of Health"
+              },
+              "grant_agency": "BC Ministry of Health"
+            },
+            {
+              "grant_agency_names": {
+                "pref": "N",
+                "content": "Active Aging Society"
+              },
+              "grant_agency": "Active Aging Society"
+            },
+            {
+              "grant_agency_names": [
+                {
+                  "pref": "Y",
+                  "content": "Canadian Institutes of Health Research (CIHR)"
+                },
+                {
+                  "pref": "N",
+                  "content": "Canadian Institutes of Health Research"
+                }
+              ],
+              "grant_agency": "Canadian Institutes of Health Research"
+            },
+            {
+              "grant_agency_names": [
+                {
+                  "pref": "Y",
+                  "content": "Michael Smith Foundation for Health Research"
+                },
+                {
+                  "pref": "N",
+                  "content": "Michael Smith Health Research BC"
+                }
+              ],
+              "grant_agency": "Michael Smith Health Research BC"
+            }
+          ]
+        },
+        "fund_text": {
+          "p": "We are grateful to the BC Ministry of Health and the Active Aging Society for their ongoing support of CTM. We thank the Canadian Institutes of Health Research and Michael Smith Health Research BC for support of the evaluation. The supporting source/financial relationships had no such involvement in study design; collection, analysis, and interpretation of data; writing of the report; or the decision to submit the report for publication. We also thank all of our delivery partner organizations, facility managers and coordinators, ACs, and all of the older adults who participated in CTM. We appreciate the dedication of staff and trainees from AART (UBC, Vancouver, Canada) to data collection. ClinicalTrials. gov registration: NCT05678985 (retrospectively registered) ."
+        }
+      },
+      "normalized_doctypes": {
+        "doctype": "Article",
+        "count": 1
+      }
+    },
+    "contributors": {
+      "contributor": {
+        "name": {
+          "seq_no": 1,
+          "orcid_id": "0000-0003-1260-5405",
+          "role": "researcher_id",
+          "full_name": "Sims Gould, Joanie",
+          "last_name": "Sims Gould",
+          "display_name": "Sims Gould, Joanie",
+          "first_name": "Joanie"
+        }
+      },
+      "count": 1
+    }
+  },
+  "dates": {
+    "date_loaded": "2023-08-28T23:59:59.00000",
+    "date_modified": "2024-01-06T13:44:59.365442",
+    "date_created": "2023-08-27T23:18:20.348573"
+  },
+  "r_id_disclaimer": "ResearcherID data provided by Clarivate Analytics",
+  "dynamic_data": {
+    "citation_related": {
+      "tc_list": {
+        "silo_tc": [
+          {
+            "coll_id": "WOK",
+            "local_count": 0
+          },
+          {
+            "coll_id": "MEDLINE",
+            "local_count": 0
+          },
+          {
+            "coll_id": "RSCI",
+            "local_count": 0
+          },
+          {
+            "coll_id": "ZOOREC",
+            "local_count": 0
+          },
+          {
+            "coll_id": "BIOABS",
+            "local_count": 0
+          },
+          {
+            "coll_id": "CABI",
+            "local_count": 0
+          },
+          {
+            "coll_id": "CSCD",
+            "local_count": 0
+          },
+          {
+            "coll_id": "FSTA",
+            "local_count": 0
+          },
+          {
+            "coll_id": "ARCI",
+            "local_count": 0
+          },
+          {
+            "coll_id": "DIIDW",
+            "local_count": 0
+          },
+          {
+            "coll_id": "CCC",
+            "local_count": 0
+          },
+          {
+            "coll_id": "DRCI",
+            "local_count": 0
+          },
+          {
+            "coll_id": "PQDT",
+            "local_count": 0
+          },
+          {
+            "coll_id": "PPRN",
+            "local_count": 0
+          },
+          {
+            "coll_id": "INSPEC",
+            "local_count": 0
+          },
+          {
+            "coll_id": "KJD",
+            "local_count": 0
+          },
+          {
+            "coll_id": "BIOSIS",
+            "local_count": 0
+          },
+          {
+            "coll_id": "WOS",
+            "local_count": 0
+          },
+          {
+            "coll_id": "BCI",
+            "local_count": 0
+          },
+          {
+            "coll_id": "SCIELO",
+            "local_count": 0
+          }
+        ]
+      }
+    },
+    "cluster_related": {
+      "identifiers": {
+        "identifier": [
+          {
+            "type": "issn",
+            "value": "1063-8652"
+          },
+          {
+            "type": "eissn",
+            "value": "1543-267X"
+          },
+          {
+            "type": "doi",
+            "value": "10.1123/japa.2023-0011"
+          },
+          {
+            "type": "pmid",
+            "value": "MEDLINE:37536680"
+          }
+        ]
+      }
+    },
+    "wos_usage": {
+      "last180days": 0,
+      "alltime": 2
+    }
+  },
+  "cited_references": {
+    "Data": [
+      {
+        "UID": "WOS:001022301000001",
+        "CitedAuthor": "McKay, Heather",
+        "TimesCited": "2",
+        "Year": "2023",
+        "Volume": "18",
+        "CitedWork": "PLOS ONE",
+        "CitedTitle": "What is the 'voltage drop' when an effective health promoting intervention for older adults-Choose to Move (Phase 3)-Is implemented at broad scale?",
+        "DOI": "10.1371/journal.pone.0268164"
+      },
+      {
+        "UID": "WOS:000505765200018",
+        "CitedAuthor": "Santini, Ziggi Ivan",
+        "TimesCited": "827",
+        "Year": "2020",
+        "Page": "E62",
+        "Volume": "5",
+        "CitedWork": "LANCET PUBLIC HEALTH",
+        "CitedTitle": "Social disconnectedness, perceived isolation, and symptoms of depression and anxiety among older Americans (NSHAP): a longitudinal mediation analysis",
+        "DOI": "10.1016/S2468-2667(19)30230-0"
+      },
+      {
+        "UID": "WOS:000689744900003",
+        "CitedAuthor": "Ankuda, Claire K.",
+        "TimesCited": "37",
+        "Year": "2021",
+        "Page": "1658",
+        "Volume": "181",
+        "CitedWork": "JAMA INTERNAL MEDICINE",
+        "CitedTitle": "Association of the COVID-19 Pandemic With the Prevalence of Homebound Older Adults in the United States, 2011-2020",
+        "DOI": "10.1001/jamainternmed.2021.4456"
+      },
+      {
+        "UID": "WOS:000809563100003",
+        "CitedAuthor": "Gray, Samantha M.",
+        "TimesCited": "16",
+        "Year": "2022",
+        "Volume": "22",
+        "CitedWork": "BMC PUBLIC HEALTH",
+        "CitedTitle": "Rapidly adapting an effective health promoting intervention for older adults-choose to move-for virtual delivery during the COVID-19 pandemic",
+        "DOI": "10.1186/s12889-022-13547-5"
+      },
+      {
+        "UID": "MEDLINE:37520285",
+        "CitedAuthor": "Chu, Dinh-Toi",
+        "TimesCited": "11",
+        "Year": "2022",
+        "Page": "100184",
+        "Volume": "5",
+        "CitedWork": "Case studies in chemical and environmental engineering",
+        "CitedTitle": "Transmission of SARS-CoV-2 infections and exposure in surfaces, points and wastewaters: A global one health perspective.",
+        "DOI": "10.1016/j.cscee.2022.100184"
+      },
+      {
+        "UID": "WOS:000771574200005",
+        "CitedAuthor": "Macdonald, Heather M.",
+        "TimesCited": "5",
+        "Year": "2022",
+        "Page": "25",
+        "Volume": "30",
+        "CitedWork": "JOURNAL OF AGING AND PHYSICAL ACTIVITY",
+        "CitedTitle": "Pragmatic Evaluation of Older Adults' Physical Activity in Scale-Up Studies: Is the Single-Item Measure a Reasonable Option?",
+        "DOI": "10.1123/japa.2020-0412"
+      },
+      {
+        "UID": "WOS:000698431300010",
+        "CitedAuthor": "Sallis, Robert",
+        "TimesCited": "419",
+        "Year": "2021",
+        "Page": "1099",
+        "Volume": "55",
+        "CitedWork": "BRITISH JOURNAL OF SPORTS MEDICINE",
+        "CitedTitle": "Physical inactivity is associated with a higher risk for severe COVID-19 outcomes: a study in 48 440 adult patients",
+        "DOI": "10.1136/bjsports-2021-104080"
+      },
+      {
+        "UID": "WOS:000638178300001",
+        "CitedAuthor": "Chambonniere, C.",
+        "TimesCited": "21",
+        "Year": "2021",
+        "Page": "401",
+        "Volume": "47",
+        "CitedWork": "EXPERIMENTAL AGING RESEARCH",
+        "CitedTitle": "Physical Activity and Sedentary Behavior of Elderly Populations during Confinement: Results from the FRENCH COVID-19 ONAPS Survey",
+        "DOI": "10.1080/0361073X.2021.1908750"
+      },
+      {
+        "UID": "WOS:000641634000001",
+        "CitedAuthor": "Chastin, Sebastien F. M.",
+        "TimesCited": "129",
+        "Year": "2021",
+        "Page": "1673",
+        "Volume": "51",
+        "CitedWork": "SPORTS MEDICINE",
+        "CitedTitle": "Effects of Regular Physical Activity on the Immune System, Vaccination and Risk of Community-Acquired Infectious Disease in the General Population: Systematic Review and Meta-Analysis",
+        "DOI": "10.1007/s40279-021-01466-1"
+      },
+      {
+        "UID": "WOS:000661098400001",
+        "CitedAuthor": "Sanchez-Villagomez, Pamela",
+        "TimesCited": "12",
+        "Year": "2021",
+        "Volume": "9",
+        "CitedWork": "FRONTIERS IN PUBLIC HEALTH",
+        "CitedTitle": "Shift to Virtual Self-Management Programs During COVID-19: Ensuring Access and Efficacy for Older Adults",
+        "DOI": "10.3389/fpubh.2021.663875"
+      },
+      {
+        "UID": "WOS:000649397000003",
+        "CitedAuthor": "Schwartz, Hadar",
+        "TimesCited": "52",
+        "Year": "2021",
+        "Page": "314",
+        "Volume": "11",
+        "CitedWork": "TRANSLATIONAL BEHAVIORAL MEDICINE",
+        "CitedTitle": "Staying physically active during the COVID-19 quarantine: exploring the feasibility of live, online, group training sessions among older adults",
+        "DOI": "10.1093/tbm/ibaa141"
+      },
+      {
+        "UID": "WOS:000649391400007",
+        "CitedAuthor": "Seifert, Alexander",
+        "TimesCited": "250",
+        "Year": "2021",
+        "Page": "E99",
+        "Volume": "76",
+        "CitedWork": "JOURNALS OF GERONTOLOGY SERIES B-PSYCHOLOGICAL SCIENCES AND SOCIAL SCIENCES",
+        "CitedTitle": "A Double Burden of Exclusion? Digital and Social Exclusion of Older Adults in Times of COVID-19",
+        "DOI": "10.1093/geronb/gbaa098"
+      },
+      {
+        "UID": "WOS:000678712000001",
+        "CitedAuthor": "Seifert, Alexander",
+        "TimesCited": "51",
+        "Year": "2020",
+        "Volume": "5",
+        "CitedWork": "FRONTIERS IN SOCIOLOGY",
+        "CitedTitle": "Impact of the COVID-19 Pandemic on Loneliness Among Older Adults",
+        "DOI": "10.3389/fsoc.2020.590935"
+      },
+      {
+        "UID": "WOS:000798385200009",
+        "CitedAuthor": "Lebrasseur, Audrey",
+        "TimesCited": "175",
+        "Year": "2021",
+        "Volume": "4",
+        "CitedWork": "JMIR AGING",
+        "CitedTitle": "Impact of the COVID-19 Pandemic on Older Adults: Rapid Review",
+        "DOI": "10.2196/26474"
+      },
+      {
+        "UID": "WOS:000625174100008",
+        "CitedAuthor": "Genin, Pauline Manon",
+        "TimesCited": "36",
+        "Year": "2021",
+        "Page": "296",
+        "Volume": "18",
+        "CitedWork": "JOURNAL OF PHYSICAL ACTIVITY & HEALTH",
+        "CitedTitle": "How Did the COVID-19 Confinement Period Affect Our Physical Activity Level and Sedentary Behaviors? Methodology and First Results From the French National ONAPS Survey",
+        "DOI": "10.1123/jpah.2020-0449"
+      },
+      {
+        "UID": "WOS:000577938700001",
+        "CitedAuthor": "Kotwal, Ashwin A.",
+        "TimesCited": "245",
+        "Year": "2021",
+        "Page": "20",
+        "Volume": "69",
+        "CitedWork": "JOURNAL OF THE AMERICAN GERIATRICS SOCIETY",
+        "CitedTitle": "Social Isolation and Loneliness Among San Francisco Bay Area Older Adults During theCOVID-19Shelter-in-PlaceOrders",
+        "DOI": "10.1111/jgs.16865"
+      },
+      {
+        "UID": "WOS:000617395100009",
+        "CitedAuthor": "Franke, Thea",
+        "TimesCited": "27",
+        "Year": "2021",
+        "Volume": "21",
+        "CitedWork": "BMC PUBLIC HEALTH",
+        "CitedTitle": "\"It makes me feel not so alone\": features of the Choose to Move physical activity intervention that reduce loneliness in older adults",
+        "DOI": "10.1186/s12889-021-10363-1"
+      },
+      {
+        "UID": "WOS:000574206700001",
+        "CitedAuthor": "Callahan, Kathryn E.",
+        "TimesCited": "2",
+        "Year": "2021",
+        "Page": "373",
+        "Volume": "69",
+        "CitedWork": "JOURNAL OF THE AMERICAN GERIATRICS SOCIETY",
+        "CitedTitle": "Promoting Active Aging: Lessons Learned in an Implementation Pilot in Primary Care",
+        "DOI": "10.1111/jgs.16838"
+      },
+      {
+        "UID": "WOS:000553761100001",
+        "CitedAuthor": "da Silveira, Matheus Pelinski",
+        "TimesCited": "227",
+        "Year": "2021",
+        "Page": "15",
+        "Volume": "21",
+        "CitedWork": "CLINICAL AND EXPERIMENTAL MEDICINE",
+        "CitedTitle": "Physical exercise as a tool to help the immune system against COVID-19: an integrative review of the current literature",
+        "DOI": "10.1007/s10238-020-00650-3"
+      },
+      {
+        "UID": "WOS:000527198800001",
+        "CitedAuthor": "Shahid, Zainab",
+        "TimesCited": "620",
+        "Year": "2020",
+        "Page": "926",
+        "Volume": "68",
+        "CitedWork": "JOURNAL OF THE AMERICAN GERIATRICS SOCIETY",
+        "CitedTitle": "COVID-19 and Older Adults: What We Know",
+        "DOI": "10.1111/jgs.16472"
+      },
+      {
+        "UID": "WOS:000527202600001",
+        "CitedAuthor": "D'Adamo, Heather",
+        "TimesCited": "229",
+        "Year": "2020",
+        "Page": "912",
+        "Volume": "68",
+        "CitedWork": "JOURNAL OF THE AMERICAN GERIATRICS SOCIETY",
+        "CitedTitle": "Coronavirus Disease 2019 in Geriatrics and Long-Term Care: The ABCDs of COVID-19",
+        "DOI": "10.1111/jgs.16445"
+      },
+      {
+        "UID": "WOS:000523216600001",
+        "CitedAuthor": "Nicol, Ginger E.",
+        "TimesCited": "81",
+        "Year": "2020",
+        "Page": "922",
+        "Volume": "68",
+        "CitedWork": "JOURNAL OF THE AMERICAN GERIATRICS SOCIETY",
+        "CitedTitle": "Action at a Distance: Geriatric Research during a Pandemic",
+        "DOI": "10.1111/jgs.16443"
+      },
+      {
+        "UID": "CABI:20220013254",
+        "CitedAuthor": "Lopez, Kimberly J.",
+        "TimesCited": "16",
+        "Year": "2021",
+        "Page": "281",
+        "Volume": "63",
+        "CitedWork": "World Leisure Journal",
+        "CitedTitle": "\"It's a whole new way of doing things\": the digital divide and leisure as resistance in a time of physical distance.",
+        "DOI": "10.1080/16078055.2021.1973553"
+      },
+      {
+        "UID": "WOS:000572095300001",
+        "CitedAuthor": "Cunningham, Conor",
+        "TimesCited": "52",
+        "Year": "2020",
+        "Volume": "17",
+        "CitedWork": "EUROPEAN REVIEW OF AGING AND PHYSICAL ACTIVITY",
+        "CitedTitle": "Why physical activity matters for older adults in a time of pandemic",
+        "DOI": "10.1186/s11556-020-00249-3"
+      },
+      {
+        "UID": "WOS:000540431200004",
+        "CitedAuthor": "Steinman, Michael A.",
+        "TimesCited": "183",
+        "Year": "2020",
+        "Page": "819",
+        "Volume": "180",
+        "CitedWork": "JAMA INTERNAL MEDICINE",
+        "CitedTitle": "Meeting the Care Needs of Older Adults Isolated at Home During the COVID-19 Pandemic",
+        "DOI": "10.1001/jamainternmed.2020.1661"
+      },
+      {
+        "UID": "WOS:000507679700001",
+        "CitedAuthor": "Berg-Weger, M.",
+        "TimesCited": "97",
+        "Year": "2020",
+        "Page": "243",
+        "Volume": "24",
+        "CitedWork": "JOURNAL OF NUTRITION HEALTH & AGING",
+        "CitedTitle": "Loneliness in Old Age: An Unaddressed Health Problem",
+        "DOI": "10.1007/s12603-020-1323-6"
+      },
+      {
+        "UID": "WOS:000729238200095",
+        "CitedAuthor": "Pearson, Nicole",
+        "TimesCited": "132",
+        "Year": "2020",
+        "Volume": "6",
+        "CitedWork": "PILOT AND FEASIBILITY STUDIES",
+        "CitedTitle": "Guidance for conducting feasibility and pilot studies for implementation trials",
+        "DOI": "10.1186/s40814-020-00634-w"
+      },
+      {
+        "UID": "WOS:000542496200002",
+        "CitedAuthor": "Yamada, Minoru",
+        "TimesCited": "219",
+        "Year": "2020",
+        "CitedWork": "JOURNAL OF NUTRITION HEALTH & AGING",
+        "CitedTitle": "Effect of the COVID-19 Epidemic on Physical Activity in Community-Dwelling Older Adults in Japan: A Cross-Sectional Online Survey",
+        "DOI": "10.1007/s12603-020-1424-2"
+      },
+      {
+        "UID": "WOS:000573176000003",
+        "CitedAuthor": "Damiot, Anthony",
+        "TimesCited": "69",
+        "Year": "2020",
+        "Page": "431",
+        "Volume": "66",
+        "CitedWork": "GERONTOLOGY",
+        "CitedTitle": "Immunological Implications of Physical Inactivity among Older Adults during the COVID-19 Pandemic",
+        "DOI": "10.1159/000509216"
+      },
+      {
+        "UID": "WOS:000576061000001",
+        "CitedAuthor": "Freiberger, Ellen",
+        "TimesCited": "54",
+        "Year": "2020",
+        "Volume": "11",
+        "CitedWork": "FRONTIERS IN PHYSIOLOGY",
+        "CitedTitle": "Mobility in Older Community-Dwelling Persons: A Narrative Review",
+        "DOI": "10.3389/fphys.2020.00881"
+      },
+      {
+        "UID": "WOS:000576387100001",
+        "CitedAuthor": "Robb, Catherine E.",
+        "TimesCited": "244",
+        "Year": "2020",
+        "Volume": "11",
+        "CitedWork": "FRONTIERS IN PSYCHIATRY",
+        "CitedTitle": "Associations of Social Isolation with Anxiety and Depression During the Early COVID-19 Pandemic: A Survey of Older Adults in London, UK",
+        "DOI": "10.3389/fpsyt.2020.591120"
+      },
+      {
+        "UID": "WOS:000546954500029",
+        "CitedAuthor": "Suryadinata, Rivan Virlando",
+        "TimesCited": "24",
+        "Year": "2020",
+        "Page": "187",
+        "Volume": "9",
+        "CitedWork": "JOURNAL OF PUBLIC HEALTH RESEARCH",
+        "CitedTitle": "Effect of age and weight on physical activity",
+        "DOI": "10.4081/jphr.2020.1840"
+      },
+      {
+        "UID": "WOS:000518186000007",
+        "CitedAuthor": "Gray, Samantha M.",
+        "TimesCited": "10",
+        "Year": "2020",
+        "Page": "355",
+        "Volume": "21",
+        "CitedWork": "PREVENTION SCIENCE",
+        "CitedTitle": "Getting Ready for Scale-Up of an Effective Older Adult Physical Activity Program: Characterizing the Adaptation Process",
+        "DOI": "10.1007/s11121-019-01085-3"
+      },
+      {
+        "UID": "WOS:000505961200002",
+        "CitedAuthor": "Sims-Gould, Joanie",
+        "TimesCited": "24",
+        "Year": "2019",
+        "Volume": "19",
+        "CitedWork": "BMC PUBLIC HEALTH",
+        "CitedTitle": "Factors that influence implementation at scale of a community-based health promotion intervention for older adults",
+        "DOI": "10.1186/s12889-019-7984-6"
+      },
+      {
+        "UID": "WOS:000495576200001",
+        "CitedAuthor": "McKay, Heather",
+        "TimesCited": "67",
+        "Year": "2019",
+        "Volume": "16",
+        "CitedWork": "INTERNATIONAL JOURNAL OF BEHAVIORAL NUTRITION AND PHYSICAL ACTIVITY",
+        "CitedTitle": "Implementation and scale-up of physical activity and behavioural nutrition interventions: an evaluation roadmap",
+        "DOI": "10.1186/s12966-019-0868-4"
+      },
+      {
+        "UID": "WOS:000481642000007",
+        "CitedAuthor": "Mackey, Dawn C.",
+        "TimesCited": "13",
+        "Year": "2019",
+        "Page": "489",
+        "Volume": "27",
+        "CitedWork": "JOURNAL OF AGING AND PHYSICAL ACTIVITY",
+        "CitedTitle": "Men on the Move: A Randomized Controlled Feasibility Trial of a Scalable, Choice-Based, Physical Activity and Active Transportation Intervention for Older Men",
+        "DOI": "10.1123/japa.2018-0137"
+      },
+      {
+        "UID": "WOS:000474328500007",
+        "CitedAuthor": "McEwan, Gary",
+        "TimesCited": "18",
+        "Year": "2019",
+        "Page": "206",
+        "Volume": "15",
+        "CitedWork": "EXPLORE-THE JOURNAL OF SCIENCE AND HEALING",
+        "CitedTitle": "RECRUITING OLDER MEN TO WALKING FOOTBALL: A PILOT FEASIBILITY STUDY",
+        "DOI": "10.1016/j.explore.2018.12.001"
+      },
+      {
+        "UID": "WOS:000468480400016",
+        "CitedAuthor": "Jakicic, John M.",
+        "TimesCited": "148",
+        "Year": "2019",
+        "Page": "1213",
+        "Volume": "51",
+        "CitedWork": "MEDICINE AND SCIENCE IN SPORTS AND EXERCISE",
+        "CitedTitle": "Association between Bout Duration of Physical Activity and Health: Systematic Review",
+        "DOI": "10.1249/MSS.0000000000001933"
+      },
+      {
+        "UID": "WOS:000470772000004",
+        "CitedAuthor": "Stirman, Shannon Wiltsey",
+        "TimesCited": "526",
+        "Year": "2019",
+        "Volume": "14",
+        "CitedWork": "IMPLEMENTATION SCIENCE",
+        "CitedTitle": "The FRAME: an expanded framework for reporting adaptations and modifications to evidence-based interventions",
+        "DOI": "10.1186/s13012-019-0898-y"
+      },
+      {
+        "UID": "WOS:000451005100002",
+        "CitedAuthor": "McKay, Heather",
+        "TimesCited": "32",
+        "Year": "2018",
+        "Volume": "18",
+        "CitedWork": "BMC PUBLIC HEALTH",
+        "CitedTitle": "Implementation of a co-designed physical activity program for older adults: positive impact when delivered at scale",
+        "DOI": "10.1186/s12889-018-6210-2"
+      },
+      {
+        "UID": "WOS:000446992000012",
+        "CitedAuthor": "Callahan, Kathryn E.",
+        "TimesCited": "14",
+        "Year": "2018",
+        "Page": "1927",
+        "Volume": "66",
+        "CitedWork": "JOURNAL OF THE AMERICAN GERIATRICS SOCIETY",
+        "CitedTitle": "Self-Reported Physical Function As a Predictor of Hospitalization in the Lifestyle Interventions and Independence for Elders Study",
+        "DOI": "10.1111/jgs.15468"
+      },
+      {
+        "UID": "WOS:000428265400002",
+        "CitedAuthor": "Pohl, Janet S.",
+        "TimesCited": "32",
+        "Year": "2018",
+        "Page": "61",
+        "Volume": "11",
+        "CitedWork": "RESEARCH IN GERONTOLOGICAL NURSING",
+        "CitedTitle": "Falls and Social Isolation of Older Adults in the National Health and Aging Trends Study",
+        "DOI": "10.3928/19404921-20180216-02"
+      },
+      {
+        "UID": "WOS:000395710700001",
+        "CitedAuthor": "Aarons, Gregory A.",
+        "TimesCited": "132",
+        "Year": "2017",
+        "Volume": "12",
+        "CitedWork": "IMPLEMENTATION SCIENCE",
+        "CitedTitle": "Testing the leadership and organizational change for implementation (LOCI) intervention in substance abuse treatment: a cluster randomized trial study protocol",
+        "DOI": "10.1186/s13012-017-0562-3"
+      },
+      {
+        "UID": "WOS:000405544800097",
+        "CitedAuthor": "Zubala, Ania",
+        "TimesCited": "216",
+        "Year": "2017",
+        "Volume": "12",
+        "CitedWork": "PLOS ONE",
+        "CitedTitle": "Promotion of physical activity interventions for community dwelling older adults: A systematic review of reviews",
+        "DOI": "10.1371/journal.pone.0180902"
+      },
+      {
+        "UID": "WOS:000400814200002",
+        "CitedAuthor": "Liljas, Ann E. M.",
+        "TimesCited": "76",
+        "Year": "2017",
+        "Volume": "17",
+        "CitedWork": "BMC PUBLIC HEALTH",
+        "CitedTitle": "Strategies to improve engagement of 'hard to reach' older people in research on health promotion: a systematic review",
+        "DOI": "10.1186/s12889-017-4241-8"
+      },
+      {
+        "UID": "WOS:000396609500002",
+        "CitedAuthor": "Garratt, A. M.",
+        "TimesCited": "124",
+        "Year": "2017",
+        "Volume": "15",
+        "CitedWork": "HEALTH AND QUALITY OF LIFE OUTCOMES",
+        "CitedTitle": "Measurement properties and normative data for the Norwegian SF-36: results from a general population survey",
+        "DOI": "10.1186/s12955-017-0625-9"
+      },
+      {
+        "UID": "WOS:000374222200010",
+        "CitedAuthor": "Bauman, Adrian",
+        "TimesCited": "481",
+        "Year": "2016",
+        "Page": "S268",
+        "Volume": "56",
+        "CitedWork": "GERONTOLOGIST",
+        "CitedTitle": "Updating the Evidence for Physical Activity: Summative Reviews of the Epidemiological Evidence, Prevalence, and Interventions to Promote \"Active Aging\"",
+        "DOI": "10.1093/geront/gnw031"
+      },
+      {
+        "UID": "WOS:000358295600047",
+        "CitedAuthor": "Gerst-Emerson, Kerstin",
+        "TimesCited": "524",
+        "Year": "2015",
+        "Page": "1013",
+        "Volume": "105",
+        "CitedWork": "AMERICAN JOURNAL OF PUBLIC HEALTH",
+        "CitedTitle": "Loneliness as a Public Health Issue: The Impact of Loneliness on Health Care Utilization Among Older Adults",
+        "DOI": "10.2105/AJPH.2014.302427"
+      },
+      {
+        "UID": "WOS:000351242300008",
+        "CitedAuthor": "Holt-Lunstad, Julianne",
+        "TimesCited": "3348",
+        "Year": "2015",
+        "Page": "227",
+        "Volume": "10",
+        "CitedWork": "PERSPECTIVES ON PSYCHOLOGICAL SCIENCE",
+        "CitedTitle": "Loneliness and Social Isolation as Risk Factors for Mortality: A Meta-Analytic Review",
+        "DOI": "10.1177/1745691614568352"
+      },
+      {
+        "UID": "WOS:000350523300003",
+        "CitedAuthor": "McAlpine, Heidi",
+        "TimesCited": "113",
+        "Year": "2015",
+        "Page": "283",
+        "Volume": "98",
+        "CitedWork": "PATIENT EDUCATION AND COUNSELING",
+        "CitedTitle": "A systematic review of types and efficacy of online interventions for cancer patients",
+        "DOI": "10.1016/j.pec.2014.11.002"
+      },
+      {
+        "UID": "MEDLINE:27965783",
+        "CitedAuthor": "Stow, Ruth",
+        "TimesCited": "3",
+        "Year": "2015",
+        "Page": "3",
+        "Volume": "1",
+        "CitedWork": "Pilot and feasibility studies",
+        "CitedTitle": "A cluster randomised feasibility trial evaluating six-month nutritional interventions in the treatment of malnutrition in care home-dwelling adults: recruitment, data collection and protocol.",
+        "DOI": "10.1186/2055-5784-1-3"
+      },
+      {
+        "UID": "WOS:000313762100013",
+        "CitedAuthor": "Milton, Karen",
+        "TimesCited": "110",
+        "Year": "2013",
+        "Page": "44",
+        "Volume": "47",
+        "CitedWork": "BRITISH JOURNAL OF SPORTS MEDICINE",
+        "CitedTitle": "Can a single question provide an accurate measure of physical activity?",
+        "DOI": "10.1136/bjsports-2011-090899"
+      },
+      {
+        "UID": "WOS:000308718500006",
+        "CitedAuthor": "Gestuvo, Maria Kristina",
+        "TimesCited": "2",
+        "Year": "2012",
+        "Page": "560",
+        "Volume": "79",
+        "CitedWork": "MOUNT SINAI JOURNAL OF MEDICINE",
+        "CitedTitle": "Health Maintenance in Older Adults: Combining Evidence and Individual Preferences",
+        "DOI": "10.1002/msj.21340"
+      },
+      {
+        "UID": "WOS:000306582000006",
+        "CitedAuthor": "Perissinotto, Carla M.",
+        "TimesCited": "859",
+        "Year": "2012",
+        "Page": "1078",
+        "Volume": "172",
+        "CitedWork": "ARCHIVES OF INTERNAL MEDICINE",
+        "CitedTitle": "Loneliness in Older Persons <i>A Predictor of Functional Decline and Death</i>",
+        "DOI": "10.1001/archinternmed.2012.1993"
+      },
+      {
+        "UID": "MEDLINE:22970604",
+        "TimesCited": "2346",
+        "Year": "2012",
+        "Page": "1",
+        "CitedWork": "World Health Organization technical report series",
+        "CitedTitle": "WHO Expert Committee on Leprosy."
+      },
+      {
+        "UID": "WOS:000287355900023",
+        "CitedAuthor": "Milton, K.",
+        "TimesCited": "406",
+        "Year": "2011",
+        "Page": "203",
+        "Volume": "45",
+        "CitedWork": "BRITISH JOURNAL OF SPORTS MEDICINE",
+        "CitedTitle": "Reliability and validity testing of a single-item physical activity measure",
+        "DOI": "10.1136/bjsm.2009.068395"
+      },
+      {
+        "UID": "WOS:000280801100001",
+        "CitedAuthor": "Arain, Mubashir",
+        "TimesCited": "1012",
+        "Year": "2010",
+        "Volume": "10",
+        "CitedWork": "BMC MEDICAL RESEARCH METHODOLOGY",
+        "CitedTitle": "What is a pilot or feasibility study? A review of current practice and editorial policy",
+        "DOI": "10.1186/1471-2288-10-67"
+      },
+      {
+        "UID": "WOS:000277733600012",
+        "CitedAuthor": "Rejeski, W. Jack",
+        "TimesCited": "45",
+        "Year": "2010",
+        "Page": "664",
+        "Volume": "65",
+        "CitedWork": "JOURNALS OF GERONTOLOGY SERIES A-BIOLOGICAL SCIENCES AND MEDICAL SCIENCES",
+        "CitedTitle": "Development and Validation of a Video-Animated Tool for Assessing Mobility",
+        "DOI": "10.1093/gerona/glq055"
+      },
+      {
+        "UID": "WOS:000274680600001",
+        "CitedAuthor": "Thabane, Lehana",
+        "TimesCited": "1800",
+        "Year": "2010",
+        "Volume": "10",
+        "CitedWork": "BMC MEDICAL RESEARCH METHODOLOGY",
+        "CitedTitle": "A tutorial on pilot studies: the what, why and how",
+        "DOI": "10.1186/1471-2288-10-1"
+      },
+      {
+        "UID": "WOS:000208219200004",
+        "CitedAuthor": "Bohannon, Richard W.",
+        "TimesCited": "99",
+        "Year": "2010",
+        "Page": "16",
+        "Volume": "33",
+        "CitedWork": "JOURNAL OF GERIATRIC PHYSICAL THERAPY",
+        "CitedTitle": "Physical Functioning Scale of the Short-Form (SF) 36: Internal Consistency and Validity With Older Adults",
+        "DOI": "10.1097/JPT.0b013e3181d0735e"
+      },
+      {
+        "UID": "WOS:000273209000005",
+        "CitedAuthor": "van Kan, G. Abellan",
+        "TimesCited": "1464",
+        "Year": "2009",
+        "Page": "881",
+        "Volume": "13",
+        "CitedWork": "JOURNAL OF NUTRITION HEALTH & AGING",
+        "CitedTitle": "GAIT SPEED AT USUAL PACE AS A PREDICTOR OF ADVERSE OUTCOMES IN COMMUNITY-DWELLING OLDER PEOPLE AN INTERNATIONAL ACADEMY ON NUTRITION AND AGING (IANA) TASK FORCE"
+      },
+      {
+        "UID": "MEDLINE:19903980",
+        "CitedAuthor": "Dumurgier, Julien",
+        "TimesCited": "87",
+        "Year": "2009",
+        "Page": "b4460",
+        "Volume": "339",
+        "CitedWork": "BMJ (Clinical research ed.)",
+        "CitedTitle": "Slow walking speed and cardiovascular death in well functioning older adults: prospective cohort study.",
+        "DOI": "10.1136/bmj.b4460"
+      },
+      {
+        "UID": "WOS:000271833800001",
+        "CitedAuthor": "Harwood, Rowan H.",
+        "TimesCited": "12",
+        "Year": "2009",
+        "Volume": "339",
+        "CitedWork": "BMJ-BRITISH MEDICAL JOURNAL",
+        "CitedTitle": "Slow walking speed in elderly people",
+        "DOI": "10.1136/bmj.b4236"
+      },
+      {
+        "UID": "WOS:000265315200013",
+        "CitedAuthor": "Bowen, Deborah J.",
+        "TimesCited": "2264",
+        "Year": "2009",
+        "Page": "452",
+        "Volume": "36",
+        "CitedWork": "AMERICAN JOURNAL OF PREVENTIVE MEDICINE",
+        "CitedTitle": "How We Design Feasibility Studies",
+        "DOI": "10.1016/j.amepre.2009.02.002"
+      },
+      {
+        "UID": "WOS:000264958800018",
+        "CitedAuthor": "Harris, Paul A.",
+        "TimesCited": "32118",
+        "Year": "2009",
+        "Page": "377",
+        "Volume": "42",
+        "CitedWork": "JOURNAL OF BIOMEDICAL INFORMATICS",
+        "CitedTitle": "Research electronic data capture (REDCap)-A metadata-driven methodology and workflow process for providing translational research informatics support",
+        "DOI": "10.1016/j.jbi.2008.08.010"
+      },
+      {
+        "UID": "WOS:000265441600010",
+        "CitedAuthor": "Syddall, H. E.",
+        "TimesCited": "144",
+        "Year": "2009",
+        "Page": "57",
+        "Volume": "13",
+        "CitedWork": "JOURNAL OF NUTRITION HEALTH & AGING",
+        "CitedTitle": "The SF-36: A simple, effective measure of mobility-disability for epidemiological studies",
+        "DOI": "10.1007/s12603-009-0010-4"
+      },
+      {
+        "UID": "WOS:000261364100024",
+        "CitedAuthor": "Mody, Lona",
+        "TimesCited": "282",
+        "Year": "2008",
+        "Page": "2340",
+        "Volume": "56",
+        "CitedWork": "JOURNAL OF THE AMERICAN GERIATRICS SOCIETY",
+        "CitedTitle": "Recruitment and Retention of Older Adults in Aging Research",
+        "DOI": "10.1111/j.1532-5415.2008.02015.x"
+      },
+      {
+        "UID": "WOS:000259515800009",
+        "CitedAuthor": "Simonsick, Eleanor M.",
+        "TimesCited": "127",
+        "Year": "2008",
+        "Page": "841",
+        "Volume": "63",
+        "CitedWork": "JOURNALS OF GERONTOLOGY SERIES A-BIOLOGICAL SCIENCES AND MEDICAL SCIENCES",
+        "CitedTitle": "Mobility limitation in self-described well-functioning older adults: Importance of endurance walk testing",
+        "DOI": "10.1093/gerona/63.8.841"
+      },
+      {
+        "UID": "WOS:000254898400014",
+        "CitedAuthor": "Durlak, Joseph A.",
+        "TimesCited": "3858",
+        "Year": "2008",
+        "Page": "327",
+        "Volume": "41",
+        "CitedWork": "AMERICAN JOURNAL OF COMMUNITY PSYCHOLOGY",
+        "CitedTitle": "Implementation matters: A review of research on the influence of implementation on program outcomes and the factors affecting implementation",
+        "DOI": "10.1007/s10464-008-9165-0"
+      },
+      {
+        "UID": "WOS:000239941000010",
+        "CitedAuthor": "Lubben, James",
+        "TimesCited": "1284",
+        "Year": "2006",
+        "Page": "503",
+        "Volume": "46",
+        "CitedWork": "GERONTOLOGIST",
+        "CitedTitle": "Performance of an abbreviated version of the Lubben Social Network Scale among three European community-dwelling older adult populations",
+        "DOI": "10.1093/geront/46.4.503"
+      },
+      {
+        "UID": "WOS:000237225100018",
+        "CitedAuthor": "Newman, AB",
+        "TimesCited": "787",
+        "Year": "2006",
+        "Page": "2018",
+        "Volume": "295",
+        "CitedWork": "JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION",
+        "CitedTitle": "Association of long-distance corridor walk performance with mortality, cardiovascular disease, mobility limitation, and disability",
+        "DOI": "10.1001/jama.295.17.2018"
+      },
+      {
+        "UID": "WOS:000224375400003",
+        "CitedAuthor": "Hughes, ME",
+        "TimesCited": "2741",
+        "Year": "2004",
+        "Page": "655",
+        "Volume": "26",
+        "CitedWork": "RESEARCH ON AGING",
+        "CitedTitle": "A short scale for measuring loneliness in large surveys - Results from two population-based studies",
+        "DOI": "10.1177/0164027504268574"
+      },
+      {
+        "UID": "WOS:000222392700030",
+        "CitedAuthor": "Hawe, P",
+        "TimesCited": "852",
+        "Year": "2004",
+        "Page": "1561",
+        "Volume": "328",
+        "CitedWork": "BMJ-BRITISH MEDICAL JOURNAL",
+        "CitedTitle": "Complex interventions: how \"out of control\" can a randomised controlled trial be?",
+        "DOI": "10.1136/bmj.328.7455.1561"
+      },
+      {
+        "UID": "WOS:000186169300013",
+        "CitedAuthor": "Baker, PS",
+        "TimesCited": "614",
+        "Year": "2003",
+        "Page": "1610",
+        "Volume": "51",
+        "CitedWork": "JOURNAL OF THE AMERICAN GERIATRICS SOCIETY",
+        "CitedTitle": "Measuring life-space mobility in community-dwelling older adults",
+        "DOI": "10.1046/j.1532-5415.2003.51512.x"
+      },
+      {
+        "UID": "WOS:000088644600012",
+        "CitedAuthor": "Hopman, WM",
+        "TimesCited": "661",
+        "Year": "2000",
+        "Page": "265",
+        "Volume": "163",
+        "CitedWork": "CANADIAN MEDICAL ASSOCIATION JOURNAL",
+        "CitedTitle": "Canadian normative data for the SF-36 health survey"
+      },
+      {
+        "UID": "WOS:000086921200005",
+        "CitedAuthor": "Hirvensalo, M",
+        "TimesCited": "507",
+        "Year": "2000",
+        "Page": "493",
+        "Volume": "48",
+        "CitedWork": "JOURNAL OF THE AMERICAN GERIATRICS SOCIETY",
+        "CitedTitle": "Mobility difficulties and physical activity as predictors of mortality and loss of independence in the community-living older population",
+        "DOI": "10.1111/j.1532-5415.2000.tb04994.x"
+      },
+      {
+        "UID": "WOS:000088044500013",
+        "CitedAuthor": "Guralnik, JM",
+        "TimesCited": "2309",
+        "Year": "2000",
+        "Page": "M221",
+        "Volume": "55",
+        "CitedWork": "JOURNALS OF GERONTOLOGY SERIES A-BIOLOGICAL SCIENCES AND MEDICAL SCIENCES",
+        "CitedTitle": "Lower extremity function and subsequent disability: Consistency across studies, predictive models, and value of gait speed alone compared with the short physical performance battery",
+        "DOI": "10.1093/gerona/55.4.M221"
+      },
+      {
+        "UID": "WOS:A1997XK55500005",
+        "CitedAuthor": "Potts, MK",
+        "TimesCited": "75",
+        "Year": "1997",
+        "Page": "348",
+        "Volume": "42",
+        "CitedWork": "SOCIAL WORK",
+        "CitedTitle": "Social support and depression among older adults living alone: The importance of friends within and outside of a retirement community",
+        "DOI": "10.1093/sw/42.4.348"
+      },
+      {
+        "UID": "MEDLINE:10117872",
+        "CitedAuthor": "Foley, D J",
+        "TimesCited": "100",
+        "Year": "1992",
+        "Page": "155",
+        "Volume": "4",
+        "CitedWork": "Journal of aging and health",
+        "CitedTitle": "The risk of nursing home admission in three communities.",
+        "DOI": "10.1177/089826439200400201"
+      },
+      {
+        "UID": "001089867100001.53",
+        "CitedAuthor": "Nettlefold, L.",
+        "TimesCited": "3",
+        "Year": "2023",
+        "Page": "76",
+        "Volume": "12",
+        "CitedWork": "Kinesiology Review",
+        "CitedTitle": "From start-up to scale-up of a health-promoting intervention for older adults: The choose to move story",
+        "DOI": "https://doi.org/10.1123/kr.2022-0034"
+      },
+      {
+        "UID": "000819434800007.65",
+        "TimesCited": "5",
+        "Year": "2021",
+        "CitedWork": "WHO situation report"
+      },
+      {
+        "UID": "001050171100001.36",
+        "CitedAuthor": "Hartmann-Boyce, J.",
+        "TimesCited": "10",
+        "Year": "2020",
+        "CitedWork": "Maximising mobility in older people when isolated with COVID-19"
+      },
+      {
+        "UID": "001050171100001.63",
+        "TimesCited": "2",
+        "Year": "2021",
+        "CitedWork": "Review of COVID-19 outbreaks in care homes in British Columbia"
+      },
+      {
+        "UID": "001017375500001.64",
+        "TimesCited": "2",
+        "Year": "1000",
+        "CitedWork": "COVID-19: Prevention and Risks"
+      },
+      {
+        "UID": "001233266400001.11",
+        "TimesCited": "63",
+        "Year": "1000",
+        "CitedWork": "Population estimates on July 1st, by age and sex: Table 17-10-0005-01",
+        "DOI": "DOI 10.25318/1710000501-ENG"
+      },
+      {
+        "UID": "001050171100001.12",
+        "TimesCited": "4",
+        "Year": "2020",
+        "CitedWork": "Canadian 24-hour movement guidelines for adults aged 65 years or older: An integration of physical activity, sedentary behaviour, and sleep"
+      },
+      {
+        "UID": "68645916.99",
+        "CitedAuthor": "Veroff, J.",
+        "TimesCited": "220",
+        "Year": "1981",
+        "CitedWork": "Mental health in America: Patterns of help-seeking from 1957 to 1976"
+      },
+      {
+        "UID": "001226568000002.18",
+        "CitedAuthor": "Fixsen, D. L.",
+        "TimesCited": "1928",
+        "Year": "2005",
+        "CitedWork": "Implementation research: A synthesis of the literature"
+      },
+      {
+        "UID": "001050171100001.30",
+        "TimesCited": "1",
+        "Year": "2020",
+        "CitedWork": "B.C.'s response to COVID-19"
+      },
+      {
+        "UID": "000339720200013.28",
+        "TimesCited": "621",
+        "Year": "2007"
+      },
+      {
+        "UID": "001050171100001.69",
+        "CitedAuthor": "Rejeski, W.J.",
+        "TimesCited": "1",
+        "Year": "2015",
+        "CitedWork": "The Journals of Gerontology: Series A, Biological Sciences and",
+        "CitedTitle": "The MAT-sf: Identifying risk for major mobility disability"
+      },
+      {
+        "UID": "001050171100001.4",
+        "CitedAuthor": "Ashe, M.C.",
+        "TimesCited": "2",
+        "Year": "2015",
+        "CitedWork": "Everyday activity supports you (EASY) model-a randomized pilot",
+        "CitedTitle": "Not just another walking program"
+      },
+      {
+        "UID": "001089867100001.48",
+        "CitedAuthor": "McKay, H.A.",
+        "TimesCited": "19",
+        "Year": "2017",
+        "Page": "10",
+        "Volume": "2",
+        "CitedWork": "Translational Journal of the American College of Sports Medicine",
+        "CitedTitle": "Implementing and evaluating an older adult physical activity model at scale: Framework for action",
+        "DOI": "10.1249/TJX.0000000000000026"
+      }
+    ]
+  }
+}]
+        }
+      }
+    }
+    
